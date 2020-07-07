@@ -1,0 +1,17 @@
+== About the July 2020 OGC API Sprint
+
+#OGCAPI
+
+The Open Geospatial Consortium (OGC) invites interested developers to the third quarter (Q3) 2020 OGC API Sprints, to be held through remote participation.
+
+*About this event*
+
+The Open Geospatial Consortium (OGC) invites interested developers to the July 2020 OGC API Sprint, to be held through remote participation/web-conferencing from 28th to 29th July 2020. The sprint will focus on the draft [OGC API - Maps - Part 1: Core](https://ogcapi.ogc.org/maps) specification.
+
+The draft [OGC API - Maps - Part 1: Core](https://ogcapi.ogc.org/maps) specification defines a Web API for requesting map images over the Internet. OGC API - Maps makes it easy for a client to request images, changing parameters such as size and coordinate reference systems at the time of request. A server that implements OGC API - Maps provides information about what maps it offers, as well as producing a map and answering queries about the content of the maps. OGC API - Maps is expected to address use cases similar to those addressed by the Web Map Service (WMS) standard.
+
+An OGC Sprint is a collaborative and inclusive event driven by innovative and rapid programming with minimum process and organisation constraints to support the development of new applications and open standards. The participants will prototype implementations of the draft OGC API - Maps specification, identify key requirements and document the requirements.
+
+The sprint will begin at 09:00am EDT on the first day, and end at 05:00pm EDT on the second day.
+
+More information and a registration form for all of the sprints can be found at https://portal.ogc.org/public_ogc/register/q3_api.php
