@@ -4,6 +4,8 @@
 
 This Github repository is for the July 2020 OGC API Sprint.
 
+[#OGCAPI](https://twitter.com/hashtag/OGCAPI)
+
 The Open Geospatial Consortium (OGC) invites interested developers to the July 2020 OGC API Sprint, to be held through remote participation/web-conferencing from 28th to 29th July 2020. The sprint will cover the draft [OGC API - Maps](https://ogcapi.ogc.org/maps) specification.
 
 Register at https://portal.ogc.org/public_ogc/register/q3_api.php
