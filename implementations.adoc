@@ -29,9 +29,9 @@
 | OGC API - Maps
 | https://github.com/joanma747[Joan Maso]
 
-| TBA
-| TBA
-| TBA
+| https://test.cubewerx.com/cubewerx/cubeserv/demo/ogcapi/Daraa[CubeWerx OGC API test server]
+| Core, Maps, Tiles, Styles, Coverages, Features, Catalogues
+| mailto:pomakis@cubewerx.com[Keith Pomakis] or mailto:pvretano@cubewerx.com[Peter Vretanos]
 
 | TBA
 | TBA
