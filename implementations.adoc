@@ -33,6 +33,10 @@
 | Core, Maps, Tiles, Styles, Coverages, Features, Catalogues
 | mailto:pomakis@cubewerx.com[Keith Pomakis] or mailto:pvretano@cubewerx.com[Peter Vretanos]
 
+| https://maps.ecere.com/geoapi[Ecere OGC API test server]
+| OGC API - Common, Tiles, Styles, Features (Maps, Coverages & Processes under development)
+| https://github.com/jerstlouis[Jerome St-Louis]
+
 | TBA
 | TBA
 | TBA
