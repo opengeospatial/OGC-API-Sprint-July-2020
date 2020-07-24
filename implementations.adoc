@@ -30,7 +30,7 @@
 | https://github.com/joanma747[Joan Maso]
 
 | https://test.cubewerx.com/cubewerx/cubeserv/demo/ogcapi/Daraa[CubeWerx OGC API test server]
-| Core, Maps, Tiles, Styles, Coverages, Features
+| Common, Maps, Tiles, Styles, Coverages, Features
 | mailto:pomakis@cubewerx.com[Keith Pomakis] or mailto:pvretano@cubewerx.com[Peter Vretanos]
 
 | https://maps.ecere.com/geoapi[Ecere OGC API test server]
