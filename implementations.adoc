@@ -51,14 +51,16 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| https://frozen-lime.surge.sh[OpenSphere OGC API Client]
+| OGC API - Features, Maps
+| https://github.com/bradh[Brad Hards]. UTC+10.
 
 | TBA
 | TBA
 | TBA
 |===
+
+Source code for OpenSphere is available at https://github.com/ngageoint/opensphere, and the OGC API plugin is at https://github.com/bradh/opensphere-plugin-ogcapi/
 
 === Executable Test Suite
 
