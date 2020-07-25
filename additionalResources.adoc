@@ -1,5 +1,7 @@
 == Additional Resources
 
-A list of previous OGC sprints and hackathons is available at https://www.ogc.org/projects/initiatives/ogcsprints
+The *recording of the pre-event webinar* is at https://portal.ogc.org/files/?artifact_id=94275
 
-OS Open Zoomstack, https://www.ordnancesurvey.co.uk/business-government/products/open-zoomstack
+A list of *previous OGC sprints and hackathons* is available at https://www.ogc.org/projects/initiatives/ogcsprints
+
+*OS Open Zoomstack*, https://www.ordnancesurvey.co.uk/business-government/products/open-zoomstack
