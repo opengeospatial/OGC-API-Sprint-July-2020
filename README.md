@@ -1,10 +1,20 @@
-# July 2020 OGC API Sprint
+July 2020 OGC API Sprint
+========================
 
 [<img src="http://www.opengeospatial.org/pub/www/files/OGC_Logo_2D_Blue_x_0_0.png" width="200"/>](https://www.opengeospatial.org)
 
 This Github repository is for the July 2020 OGC API Sprint.
 
 [#OGCAPI](https://twitter.com/hashtag/OGCAPI)
+
+The Sprint is sponsored by
+------------
+
+[<img src="https://www.ordnancesurvey.co.uk/blog/wp-content/uploads/2018/08/os-logo.png" width="200"/>](https://www.ordnancesurvey.co.uk/s)
+
+
+About the Sprint
+----------------
 
 The Open Geospatial Consortium (OGC) invites interested developers to the July 2020 OGC API Sprint, to be held through remote participation/web-conferencing from 28th to 29th July 2020. The sprint will cover the draft [OGC API - Maps](https://ogcapi.ogc.org/maps) specification.
 
