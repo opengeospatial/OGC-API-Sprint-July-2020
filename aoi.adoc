@@ -1,0 +1,56 @@
+== Optional Area of Interest
+
+To facilitate the development of the draft OGC API - Maps specification, the Area of Interest (AOI) presented on this page is provided as a reference for the participants.
+
+The AOI has the following polygonal bounds in World Geodetic System 1984 (WGS84) longitude-latitude coordinates:
+
+[source,json]
+----
+{
+   "type":"FeatureCollection",
+   "name":"1_aoi",
+   "crs":{
+      "type":"name",
+      "properties":{
+         "name":"urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "id":1
+         },
+         "geometry":{
+            "type":"MultiPolygon",
+            "coordinates":[
+               [
+                  [
+                     [
+                        -0.692398763025836,
+                        51.126550173970656
+                     ],
+                     [
+                        -0.684763629530156,
+                        51.933329280014171
+                     ],
+                     [
+                        0.62084419823112,
+                        51.928239191017056
+                     ],
+                     [
+                        0.62338924272968,
+                        51.167270885947616
+                     ],
+                     [
+                        -0.692398763025836,
+                        51.126550173970656
+                     ]
+                  ]
+               ]
+            ]
+         }
+      }
+   ]
+}
+----

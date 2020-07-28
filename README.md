@@ -28,6 +28,7 @@ The draft [OGC API - Maps - Part 1: Core](https://ogcapi.ogc.org/maps) specifica
 * [API Specs](./specs.adoc)
 * [Sprint Logistics](./logistics.adoc)
 * [Schedule/Agenda](./agenda.adoc)
+* [Area of Interest](./aoi.adoc)
 * [Implementations](./implementations.adoc)
 * [Datasets](./Shared_Datasets/README.md)
 * [What is everybody going to be working on?](https://github.com/opengeospatial/OGC-API-Sprint-July-2020/issues/1)
