@@ -19,14 +19,9 @@ All times on the agenda are in UTC-4/EDT (Washington D.C. time).
 |Break| |
 |13:30-15:30 |Practical work|
 |15:30-16:30 |Issues / concerns &#10036; | Facilitator:  Gobe
-|16:30-17:30
-a|“Stand up” &#10036; :
-
-* Demo(s)
-
-|Facilitator: Gobe
+|16:30-17:30 |Practical work|
 3+|*29 July 2020*
-|09:00-10:00 |Re-group - a short stand-up &#10036; |Facilitator: Gobe
+|09:00-10:00 |a short stand-up and preliminary demo &#10036; |Facilitator: Gobe
 |10:00-11:00 |Specification development &#10036;| Facilitator:  Joan
 |11:00-13:00 |Practical work|
 |Break| |
