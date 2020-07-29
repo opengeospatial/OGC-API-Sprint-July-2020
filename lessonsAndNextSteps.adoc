@@ -2,8 +2,20 @@
 
 == Immediate Lessons
 
-* TBA
-* TBA
+* There's a need to provide a link to the legend of each map
+
+* There is a need for a 'types' property that  implies that there is content negotiation at the href link. The format specified in 'type' is the default one. Currently, if you have several formats this results in a more complex encoding that has to repeat a full link for each format.
+
+* There are several link relation types of map, legend, tileSet etc. These could be useful for OGC API - Maps but are not available in the IANA register. 
+
+* Visualisation of selected features could be achieved by returning geometry in a feature info response and then rendering that on the client side.
+
+* There may be a need for a hierarchy whereby you can organise collections according to a theme.
+
+* With OGC API - Maps we are starting from a dataset. So it is clear which dataset contributed to the creation of this map. This is a significant benefit over WMS.
+
+* Now we have a Web API that knows about items and coverages and able to show maps. So it is now easy to show processes.
+
 
 == Next Steps for the innovation side
 
