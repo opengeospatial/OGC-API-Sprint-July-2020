@@ -2,7 +2,7 @@
 
 == Immediate Lessons
 
-* There's a need to provide a link to the legend of each map
+* There's a need to provide a link to the legend of each map.
 
 * There is a need for a 'types' property that  implies that there is content negotiation at the href link. The format specified in 'type' is the default one. Currently, if you have several formats this results in a more complex encoding that has to repeat a full link for each format.
 
@@ -16,12 +16,40 @@
 
 * Now we have a Web API that knows about items and coverages and able to show maps. So it is now easy to show processes.
 
+* With the OpenAPI definition it's much easier to know what the server does, without needing to read the spec. The OpenAPI definition clarifies information in the spec.
+
+* There's still some institutional knowledge needed to understand the spec. 
+
+* A user guide could be useful to help developers get started.
+
+* If there was a library that implements OGC API - Maps and everyone used it, then it would help accelerate uptake.
+
+* Making the all the parameters optional, is a significant improvement over previous approaches because it makes it easy to retrieve a map without providing any parameters.
 
 == Next Steps for the innovation side
 
-* TBA
+Future work in IP could include:
+
+* A way to improve the querying. Query capabilities beyond feature info.
+
+* Combining OGC API - Maps with processes and workflows.
+
+* Continued progress of maps, styles, and tiles. 
+
+* Idea of geodata resources at different parts of the API. For example, if we have to create Collections of Collections.
+
+* To explore how addressing could be used to select bboxs (e.g. MGRS, W3W, DGGS-based addressing) in a future extension. Need a scale, range etc.
+
 
 == Next Steps on the standards side
 
-* TBA
-* TBA
+* Need to align the work of the OGC API - Maps SWG with that of the OGC API - Styles SWG.
+
+* There's a need to provide a guidance document that describes how to make use of elements from the OGC API - Common - Part 1: Core without necessarily pulling in all of the requirements of OGC API - Common.
+
+* Work on Part 4: Custom Maps.
+
+* Consider the CRS of Common and Features, in relation to the BBox CRS. 
+
+* Geodata selection from a dataset could be sent to OGC API - Common.
+
