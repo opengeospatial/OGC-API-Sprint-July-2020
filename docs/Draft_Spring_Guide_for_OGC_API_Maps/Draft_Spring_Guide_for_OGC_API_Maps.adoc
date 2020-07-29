@@ -1,6 +1,6 @@
-== Getting Started with OGC API - Maps for spring.io developers
+== Getting Started with Spring and OGC API - Maps
 
-This Getting Started guide introduces spring.io developers to working with API definition files for OGC API - Maps. The guide is inspired by the https://reflectoring.io/spring-boot-openapi/[API-First Development with Spring Boot and Swagger] tutorial on reflectoring.io.
+This Getting Started guide introduces Java developers that use Spring to working with API definition files for OGC API - Maps. The guide is inspired by the https://reflectoring.io/spring-boot-openapi/[API-First Development with Spring Boot and Swagger] tutorial on reflectoring.io.
 
 First create a basic sprint boot application at http://start.sprint.io
 
