@@ -1,22 +1,5 @@
 == Implementations
 
-=== Documentation
-
-[#table_documentation,reftext='{table-caption} {counter:table-num}']
-.Documentation
-[cols=",,",width="75%",options="header",align="center"]
-|===
-|Implementation | Type | Contact
-
-| TBA
-| TBA
-| TBA
-
-| TBA
-| TBA
-| TBA
-|===
-
 === Server-side implementations
 
 [#table_implementation,reftext='{table-caption} {counter:table-num}']
@@ -62,6 +45,7 @@
 
 Source code for OpenSphere is available at https://github.com/ngageoint/opensphere, and the OGC API plugin is at https://github.com/bradh/opensphere-plugin-ogcapi/
 
+
 === Executable Test Suite
 
 [#table_documentation,reftext='{table-caption} {counter:table-num}']
@@ -74,4 +58,22 @@ Source code for OpenSphere is available at https://github.com/ngageoint/opensphe
 | TBA
 | TBA
 
+|===
+
+
+== Documentation
+
+[#table_documentation,reftext='{table-caption} {counter:table-num}']
+.Documentation
+[cols=",,",width="75%",options="header",align="center"]
+|===
+|Implementation | Type | Contact
+
+| Getting Started with Spring and OGC API - Maps
+| Tutorial
+| http://github.com/ghobona[ghobona]
+
+| TBA
+| TBA
+| TBA
 |===
