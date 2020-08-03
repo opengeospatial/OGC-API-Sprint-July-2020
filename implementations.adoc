@@ -69,7 +69,7 @@ Source code for OpenSphere is available at https://github.com/ngageoint/opensphe
 |===
 |Implementation | Type | Contact
 
-| Getting Started with Spring and OGC API - Maps
+| https://github.com/opengeospatial/OGC-API-Sprint-July-2020/blob/master/docs/Draft_Spring_Guide_for_OGC_API_Maps/Draft_Spring_Guide_for_OGC_API_Maps.adoc[Getting Started with Spring and OGC API - Maps]
 | Tutorial
 | http://github.com/ghobona[ghobona]
 
