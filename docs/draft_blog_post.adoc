@@ -1,0 +1,44 @@
+*OGC API - Maps Virtual Code Sprint - How it went!*
+
+The Open Geospatial Consortium (OGC) hosted a virtual code sprint to advance the draft OGC API - Maps specification on July 28th-29th 2020.
+The sprint was sponsored by Ordnance Survey. The participants prototyped implementations of the draft OGC API - Maps - Part 1: Core
+specification, identifying missing requirements, and documenting these requirements so that the specification could be tested and improved. An
+OGC Sprint is a collaborative and inclusive event driven by innovative and rapid programming with minimal process and organization constraints
+to support the development of new applications and open standards.
+
+The draft OGC API - Maps - Part 1: Core specification defines a Web API for requesting map images over the Internet. OGC API - Maps makes it
+easy for a client application to request images, changing parameters such as size and coordinate reference systems at the time of request. A
+server that implements OGC API - Maps provides information about available maps, as well as producing a map and answering queries about
+the content of the maps. The draft specification comes from OGC’s concerted effort to create modular, resource-oriented API standards that
+use OpenAPI for describing interfaces that offer geographic information over the web - known collectively as the OGC API family of standards.
+
+The Centre for Ecological Research and Forestry Applications (CREAF) at the Autonomous University of Barcelona (UAB) deployed an instance of the
+MiraMon Map Server in preparation for the sprint (http://ogc.uab.cat/OGCMapSprint/[http://ogc.uab.cat/OGCMapSprint]).
+The server implements support for the draft OGC API - Maps specification. The server is implemented as a CGI application encoded in
+C language that is part of the MiraMon Geographic Information System (GIS) & Remote Sensing (RS) suite. It can interoperate with other
+vendors clients and provides additional functionality when combined with the MiraMon Map Client.
+
+In preparation for the sprint, CubeWerx deployed an implementation of OGC API - Maps and other OGC API specifications
+(https://test.cubewerx.com/cubewerx/cubeserv/demo/ogcapi/Daraa[https://test.cubewerx.com/cubewerx/cubeserv/demo/ogcapi/Daraa]).
+The CubeWerx server ("cubeserv") is implemented in the C programming language. The server exposes an interactive API description created from
+the OpenAPI definition document. This enables both users and client applications to query the server. During the sprint, the server was
+updated in real time based on feedback from other participants using the services.
+
+In preparation for the sprint, Ecere also deployed an implementation of OGC API - Maps that also supported a number of other OGC API
+specifications (http://maps.ecere.com/geoapi/[http://maps.ecere.com/geoapi/]). The implementation had been built on top of Ecere's GNOSIS Map Server
+product which uses the open-source cross-platform Ecere SDK and eC programming language. Amongst the maps published through the GNOSIS Map
+Server during the sprint was a subset of Ordnance Survey's OpenMapLocal product
+(https://os.uk/business-government/products/open-map-local[https://os.uk/business-government/products/open-map-local]),
+which was exposed as a http://maps.ecere.com/geoapi/collections/OpenMapLocal[map collection].
+
+Sigma Bravo extended the OpenSphere plugin to support OGC API - Maps (https://frozen-lime.surge.sh[https://frozen-lime.surge.sh]).
+OpenSphere is a pluggable, single-page, GIS web application that supports both 2D and 3D views. It supports binding to many popular
+servers and formats. Other features include animation of both raster and vector data, import and export of various formats, and saving files and
+layers between sessions.
+
+The draft OGC API - Maps specification is expected to address use cases similar to those addressed by the OGC Web Map Service (WMS) standard. As
+such one of the prototype implementations demonstrated how to create a facade or proxy that exposes a WMS through an OGC API - Maps interface.
+Development of the prototype was used as the basis for developing a https://github.com/opengeospatial/OGC-API-Sprint-July-2020/blob/master/docs/Draft_Spring_Guide_for_OGC_API_Maps/Draft_Spring_Guide_for_OGC_API_Maps.adoc[basic
+guide] for developers that use the Sprint Framework (spring.io) - a popular framework for Java developers. The prototype implementation
+published a http://sandy-gh-1.ogc.org:8081/collections/os_open_zoomstack_subset/map/default?bbox=-0.12430460067838463,51.52024185677388,-0.08639925712829871,51.53989269334246&width=768&height=632&crs=CRS:84&f=image/png[map]
+created from the Ordnance Survey’s OS Open Zoomstack product (https://os.uk/business-government/products/open-zoomstack[https://os.uk/business-government/products/open-zoomstack]).
