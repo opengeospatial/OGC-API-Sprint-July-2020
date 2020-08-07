@@ -21,6 +21,12 @@ To try out the application we built following this tutorial and using https://os
 
 The default styling is from https://github.com/OrdnanceSurvey/OS-Open-Zoomstack-Stylesheets/tree/master/GeoPackage/Styled%20Layer%20Descriptors%20(SLD)
 
+== Prerequisites
+
+* The Java Development Kit (JDK) should be installed on your machine. You can use either http://openjdk.java.net[OpenJDK] or https://www.oracle.com/java/technologies/javase-downloads.html[Oracle JDK].
+* https://maven.apache.org/[Maven] should be available on your machine.
+* An Integrated Development Environment (IDE). Some popular ones include https://www.eclipse.org[Eclipse], https://netbeans.org[Apache Netbeans], https://code.visualstudio.com[Microsoft Visual Code] and https://www.jetbrains.com/idea/download/[IntelliJ IDEA Community edition].
+
 
 [[step1]]
 == Step 1 - Creating a basic Spring boot application
@@ -40,7 +46,7 @@ Notice that the project contains a class called `SimpleMapApi1Application`. This
 Now configure the application to run to serve requests through 8081. In this tutorial we use port 8081, you could use any port you wish.
 
 [[step2]]
-== Step 2 - Adding the OpenAPITools Generator to the project
+== Step 2 - Adding the OpenAPITools Generator to the maven project
 
 Add the following to the pom.xml file.
 
@@ -74,6 +80,8 @@ Add the following to the pom.xml file.
 </plugin>
 
 ----
+
+Then place the https://github.com/opengeospatial/OGC-API-Sprint-July-2020/blob/master/docs/Draft_Spring_Guide_for_OGC_API_Maps/maps.yaml[maps.yaml] file at `/src/main/resources/` in your maven project.
 
 
 [[step3]]
