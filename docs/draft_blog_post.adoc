@@ -1,4 +1,4 @@
-*OGC API - Maps Virtual Code Sprint - How it went!*
+*2020 OGC API - Maps Virtual Code Sprint - How it went!*
 
 The Open Geospatial Consortium (OGC) hosted a virtual code sprint to advance the draft OGC API - Maps specification on July 28th-29th 2020.
 The sprint was sponsored by Ordnance Survey. The participants prototyped implementations of the draft OGC API - Maps - Part 1: Core
