@@ -1,0 +1,4 @@
+Sigma Bravo extended the OpenSphere plugin to support OGC API - Maps (https://frozen-lime.surge.sh[https://frozen-lime.surge.sh]).
+OpenSphere is a pluggable, single-page, GIS web application that supports both 2D and 3D views. It supports binding to many popular
+servers and formats. Other features include animation of both raster and vector data, import and export of various formats, and saving files and
+layers between sessions.

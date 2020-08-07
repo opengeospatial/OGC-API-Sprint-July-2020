@@ -12,29 +12,13 @@ server that implements OGC API - Maps provides information about available maps,
 the content of the maps. The draft specification comes from OGC’s concerted effort to create modular, resource-oriented API standards that
 use OpenAPI for describing interfaces that offer geographic information over the web - known collectively as the OGC API family of standards.
 
-The Centre for Ecological Research and Forestry Applications (CREAF) at the Autonomous University of Barcelona (UAB) deployed an instance of the
-MiraMon Map Server in preparation for the sprint (http://ogc.uab.cat/OGCMapSprint/[http://ogc.uab.cat/OGCMapSprint]).
-The server implements support for the draft OGC API - Maps specification. The server is implemented as a CGI application encoded in
-C language that is part of the MiraMon Geographic Information System (GIS) & Remote Sensing (RS) suite. It can interoperate with other
-vendors clients and provides additional functionality when combined with the MiraMon Map Client.
+include::creaf_paragraph.adoc[]
 
-In preparation for the sprint, CubeWerx deployed an implementation of OGC API - Maps and other OGC API specifications
-(https://test.cubewerx.com/cubewerx/cubeserv/demo/ogcapi/Daraa[https://test.cubewerx.com/cubewerx/cubeserv/demo/ogcapi/Daraa]).
-The CubeWerx server ("cubeserv") is implemented in the C programming language. The server exposes an interactive API description created from
-the OpenAPI definition document. This enables both users and client applications to query the server. During the sprint, the server was
-updated in real time based on feedback from other participants using the services.
+include::cubewerx_paragraph.adoc[]
 
-In preparation for the sprint, Ecere also deployed an implementation of OGC API - Maps that also supported a number of other OGC API
-specifications (http://maps.ecere.com/geoapi/[http://maps.ecere.com/geoapi/]). The implementation had been built on top of Ecere's GNOSIS Map Server
-product which uses the open-source cross-platform Ecere SDK and eC programming language. Amongst the maps published through the GNOSIS Map
-Server during the sprint was a subset of Ordnance Survey's OpenMapLocal product
-(https://os.uk/business-government/products/open-map-local[https://os.uk/business-government/products/open-map-local]),
-which was exposed as a http://maps.ecere.com/geoapi/collections/OpenMapLocal[map collection].
+include::ecere_paragraph.adoc[]
 
-Sigma Bravo extended the OpenSphere plugin to support OGC API - Maps (https://frozen-lime.surge.sh[https://frozen-lime.surge.sh]).
-OpenSphere is a pluggable, single-page, GIS web application that supports both 2D and 3D views. It supports binding to many popular
-servers and formats. Other features include animation of both raster and vector data, import and export of various formats, and saving files and
-layers between sessions.
+include::sigma_bravo_paragraph.adoc[]
 
 The draft OGC API - Maps specification is expected to address use cases similar to those addressed by the OGC Web Map Service (WMS) standard. As
 such one of the prototype implementations demonstrated how to create a facade or proxy that exposes a WMS through an OGC API - Maps interface.
