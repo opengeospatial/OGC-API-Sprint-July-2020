@@ -38,6 +38,10 @@
 | OGC API - Features, Maps
 | https://github.com/bradh[Brad Hards]. UTC+10.
 
+| https://ecere.ca/gnosis[GNOSIS Cartographer]
+| OGC API
+| https://github.com/jerstlouis[Jerome St-Louis]
+
 | TBA
 | TBA
 | TBA
