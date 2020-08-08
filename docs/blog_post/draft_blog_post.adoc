@@ -18,7 +18,7 @@ include::cubewerx_paragraph.adoc[]
 
 include::ecere_paragraph.adoc[]
 
-include::sigma_bravo_paragraph.adoc[]
+include::clientside_paragraph.adoc[]
 
 The draft OGC API - Maps specification is expected to address use cases similar to those addressed by the OGC Web Map Service (WMS) standard. As
 such one of the prototype implementations demonstrated how to create a facade or proxy that exposes a WMS through an OGC API - Maps interface.
