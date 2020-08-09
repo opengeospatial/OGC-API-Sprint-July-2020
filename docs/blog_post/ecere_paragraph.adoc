@@ -1,4 +1,4 @@
 During the sprint, Ecere initiated the development of server-side maps rendering capabilities, deployed at an end-point supporting OGC API - Maps as well as a number of other OGC API specifications (https://maps.ecere.com/ogcapi/[https://maps.ecere.com/ogcapi/]). The implementation was done in Ecere's GNOSIS Map Server
 product which leverages the open-source cross-platform https://ecere.org[Ecere SDK] and https://ec-lang.org[eC programming language]. Amongst the maps published through the GNOSIS Map Server during the sprint was the entire Ordnance Survey's OpenMapLocal product
 (https://os.uk/business-government/products/open-map-local[https://os.uk/business-government/products/open-map-local]),
-which was exposed as a https://maps.ecere.com/ogcapi/collections/OpenMapLocal[collection] supporting OGC API - Maps.
+which was exposed as a https://maps.ecere.com/ogcapi/collections/OpenMapLocal[collection] supporting OGC API - Maps. Ecere also worked on implementing client support for visualizing maps accessed through OGC API - Maps in GNOSIS Cartographer. 
