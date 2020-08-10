@@ -43,7 +43,7 @@ Download the project by clicking on the GENERATE button.
 
 Notice that the project contains a class called `SimpleMapApi1Application`. This is the Main Class for the application.
 
-Now configure the application to run to serve requests through 8081. In this tutorial we use port 8081, you could use any port you wish.
+Now configure the application to run to serve requests through port 8081 by adding `server.port=8081` to the file `/src/main/resources/application.properties`. In this tutorial we use port 8081, you could use any port you wish.
 
 [[step2]]
 == Step 2 - Adding the OpenAPITools Generator to the maven project
