@@ -26,3 +26,5 @@ Development of the prototype was used as the basis for developing a https://gith
 guide] for developers that use the Sprint Framework (spring.io) - a popular framework for Java developers. The prototype implementation
 published a http://sandy-gh-1.ogc.org:8081/collections/os_open_zoomstack_subset/map/default?bbox=-0.12430460067838463,51.52024185677388,-0.08639925712829871,51.53989269334246&width=768&height=632&crs=CRS:84&f=image/png[map]
 created from the Ordnance Survey’s OS Open Zoomstack product (https://os.uk/business-government/products/open-zoomstack[https://os.uk/business-government/products/open-zoomstack]).
+
+“OS was pleased to sponsor this OGC API Sprint, focussed on developing a standardised web-native API for delivering maps. We look forward to this standard being widely adopted and working well with OGC’s recent API for Features – the ‘raw data’ from which maps are made.” said Peter Parslow, Open Standards Lead at Ordnance Survey.
