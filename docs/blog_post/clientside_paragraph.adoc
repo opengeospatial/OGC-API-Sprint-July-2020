@@ -1,4 +1,4 @@
 Brad Hards extended an existing OpenSphere plugin(https://github.com/bradh/opensphere-plugin-ogcapi/) to support OGC API - Maps.
-OpenSphere(https://github.com/ngageoint/opensphere]) is a pluggable, single-page, GIS web application that supports both 2D and 3D views. It supports binding to many popular
+OpenSphere(https://github.com/ngageoint/opensphere) is a pluggable, single-page, GIS web application that supports both 2D and 3D views. It supports binding to many popular
 servers and formats. Other features include animation of both raster and vector data, import and export of various formats, and saving files and
 layers between sessions.
