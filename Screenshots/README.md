@@ -44,9 +44,13 @@ This folder shows screenshots of implementations.
 
 #### OrdnanceSurvey OpenMap Local (whole of Great Britain)
 
+(Contains OS data © Crown Copyright and database right 2020)
+
 ![GNOSISMapServer - OS OpenMap Local](./GNOSISMapServer-OpenMapLocal-Full.png)
 
 #### OrdnanceSurvey OpenMap Local (zoomed)
+
+(Contains OS data © Crown Copyright and database right 2020)
 
 ![GNOSISMapServer - OS OpenMap Local - Zoomed](./GNOSISMapServer-OpenMapLocal-1.png)
 
