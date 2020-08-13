@@ -1,5 +1,0 @@
-In preparation for the sprint, CubeWerx deployed an implementation of OGC API - Maps and other OGC API specifications
-(https://test.cubewerx.com/cubewerx/cubeserv/demo/ogcapi/Daraa[https://test.cubewerx.com/cubewerx/cubeserv/demo/ogcapi/Daraa]).
-The CubeWerx server ("cubeserv") is implemented in the C programming language. The server exposes an interactive API description created from
-the OpenAPI definition document. This enables both users and client applications to query the server. During the sprint, the server was
-updated in real time based on feedback from other participants using the services.

@@ -1,5 +1,0 @@
-The Centre for Ecological Research and Forestry Applications (CREAF) at the Autonomous University of Barcelona (UAB) deployed an instance of the
-MiraMon Map Server in preparation for the sprint (http://ogc.uab.cat/OGCMapSprint/[http://ogc.uab.cat/OGCMapSprint]).
-The server implements support for the draft OGC API - Maps specification. The server is implemented as a CGI application encoded in
-C language that is part of the MiraMon Geographic Information System (GIS) & Remote Sensing (RS) suite. It can interoperate with other
-vendors clients and provides additional functionality when combined with the MiraMon Map Client.
